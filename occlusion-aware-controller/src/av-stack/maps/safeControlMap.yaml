@@ -1,0 +1,7 @@
+image: /home/f1tenth3/f1tenth_ws/src/av-stack/maps/safeControlMap.pgm
+mode: trinary
+resolution: 0.04
+origin: [-7.32, -15.60, 0]
+negate: 0
+occupied_thresh: 0.725
+free_thresh: 0.190

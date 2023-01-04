@@ -1,0 +1,7 @@
+image: /home/f1tenth3/f1tenth_ws/src/av-stack/maps/recordedMap.pgm
+mode: trinary
+resolution: 0.02
+origin: [-1.49, -6.44, 0]
+negate: 0
+occupied_thresh: 0.725
+free_thresh: 0.19
