@@ -1,6 +1,6 @@
 # occlusion-and-interaction-aware-safe-control-ROS
 
-Experimental ROS-2 stack for S. Gangadhar, Z. Wang, K. Poku, N. Yamada, K. Honda, Y. Nakahira, H. Okuda, T. Suzuki. An occlusion- and
+Hardware Experiments in ROS-2 for S. Gangadhar, Z. Wang, K. Poku, N. Yamada, K. Honda, Y. Nakahira, H. Okuda, T. Suzuki. An occlusion- and
 interaction-aware safe control strategy for autonomous vehicles, submitted to The 22nd World Congress of the
 International Federation of Automatic Control
 
