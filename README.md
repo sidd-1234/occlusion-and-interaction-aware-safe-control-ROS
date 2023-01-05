@@ -4,6 +4,8 @@ Hardware Experiments in ROS-2 for S. Gangadhar, Z. Wang, K. Poku, N. Yamada, K. 
 interaction-aware safe control strategy for autonomous vehicles, submitted to The 22nd World Congress of the
 International Federation of Automatic Control
 
+Video Demo Link: https://www.youtube.com/watch?v=bII1aARKA-o
+
 ## Structure
 
 * occlusion-aware-controller is a ROS 2 workspace, `src` contains ROS 2 packages as usual
