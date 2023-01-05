@@ -34,7 +34,7 @@ International Federation of Automatic Control
 
 ## Parameters and topics
 
-### anytime_stanley
+### safe_control
 * Parameters
     * k_gain
     * speed
